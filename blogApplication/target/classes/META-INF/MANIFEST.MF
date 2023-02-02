@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Omer Sabir
+Build-Jdk: 19
+Implementation-Title: blogApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.skillzamp
+Implementation-URL: https://spring.io/projects/spring-boot/blogApp
+Created-By: Maven Integration for Eclipse
+
